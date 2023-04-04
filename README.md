@@ -1,2 +1,1 @@
-# precursohenry
-este es un repositorio de prueba del modulo 2 del precurso henry
+prueba de como crear un repositorio y clonarlo desde hithub a mi computadora
